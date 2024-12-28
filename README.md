@@ -6,18 +6,6 @@
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=jorgeporrasje&label=Profile%20views&color=0047AB&style=plastic?" alt="jorgeporrasje" height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/peru.html" target="_blank">
-			<img src="https://aktive.tk/peru/jorgeporrasje?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<a href = "https://commits.top/peru.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="jorgeporrasje" target="_blank" height=25px, width=250px/> 
-	</a>
-
-</p>
 
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
