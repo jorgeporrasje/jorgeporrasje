@@ -131,12 +131,6 @@
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 
-<br> 
 
 
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/jorgeporrasje/jorgeporrasje/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+
